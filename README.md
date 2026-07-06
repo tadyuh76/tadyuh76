@@ -43,15 +43,6 @@ Currently working across edtech, security intelligence, and AI-assisted engineer
 - AI-assisted engineering with review, context discipline, and CI-backed verification
 - Product thinking: user research, analytics, UX quality, and shipping decisions
 
-## Selected Public Work
-
-| Project | Snapshot |
-| --- | --- |
-| [CheckVar](https://github.com/tadyuh76/check-var) | AI-native mobile safety prototype and hackathon finalist project. |
-| [Lumigo](https://github.com/tadyuh76/lumigo) | Lightweight product experiment around learning and productivity workflows. |
-| [PeakPick](https://github.com/tadyuh76/peakpick) | Public microservices project index for commerce and operations architecture. |
-| [Study247](https://github.com/tadyuh76/study247) | Earlier learning-platform work from student product exploration. |
-
 ## Now
 
 - CTO @ Lumist.ai, building learning products with a small engineering team
