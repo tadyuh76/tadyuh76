@@ -1,0 +1,66 @@
+<div align="center">
+
+# Huy / Tad Yuh
+
+### Full Stack Software Engineer building product systems from idea to production.
+
+<a href="https://linkedin.com/in/huongdathuy">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Huong%20Dat%20Huy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="https://github.com/tadyuh76">
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-tadyuh76-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</div>
+
+---
+
+I build across the full product stack: clean interfaces, practical backend architecture, data-aware systems, and the release habits that help teams ship with confidence.
+
+Currently working across edtech, security intelligence, and AI-assisted engineering. I care about simple user experiences, reliable services, fast iteration, and tools that make complex workflows feel lighter.
+
+## What I Work With
+
+<p>
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white">
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB">
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white">
+  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white">
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white">
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
+  <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=111111">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white">
+</p>
+
+## Focus Areas
+
+- Product engineering for web, mobile, dashboards, and internal tools
+- Backend systems, APIs, data workflows, automation, and deployment
+- AI-assisted engineering with review, context discipline, and CI-backed verification
+- Product thinking: user research, analytics, UX quality, and shipping decisions
+
+## Selected Public Work
+
+| Project | Snapshot |
+| --- | --- |
+| [CheckVar](https://github.com/tadyuh76/check-var) | AI-native mobile safety prototype and hackathon finalist project. |
+| [Lumigo](https://github.com/tadyuh76/lumigo) | Lightweight product experiment around learning and productivity workflows. |
+| [PeakPick](https://github.com/tadyuh76/peakpick) | Public microservices project index for commerce and operations architecture. |
+| [Study247](https://github.com/tadyuh76/study247) | Earlier learning-platform work from student product exploration. |
+
+## Now
+
+- CTO @ Lumist.ai, building learning products with a small engineering team
+- Full Stack Software Engineer working on production-grade product and data systems
+- Exploring better developer workflows with AI agents, tests, and fast feedback loops
+
+<div align="center">
+
+<img height="155" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=tadyuh76&show_icons=true&theme=transparent&hide_border=true&rank_icon=github">
+<img height="155" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tadyuh76&layout=compact&theme=transparent&hide_border=true&hide=Jupyter%20Notebook">
+
+</div>
