@@ -1,6 +1,6 @@
 <div align="center">
 
-# Huy / Tad Yuh
+# Huy Huong
 
 ### Full Stack Software Engineer building product systems from idea to production.
 
