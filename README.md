@@ -45,12 +45,17 @@ Currently working across edtech, security intelligence, and AI-assisted engineer
 ## Now
 
 - CTO @ Lumist.ai, building learning products with a small engineering team
-- Full Stack Software Engineer working on production-grade product and data systems
+- Full Stack Software Engineer building product, platform, and data systems
 - Exploring better developer workflows with AI agents, tests, and fast feedback loops
+
+## Public Snapshot
 
 <div align="center">
 
-<img height="155" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=tadyuh76&show_icons=true&theme=transparent&hide_border=true&rank_icon=github">
-<img height="155" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tadyuh76&layout=compact&theme=transparent&hide_border=true&hide=Jupyter%20Notebook">
+<img width="100%" alt="GitHub profile details chart" src="./profile-summary-card-output/github/0-profile-details.svg">
+<img width="49%" alt="Top languages by public repository chart" src="./profile-summary-card-output/github/1-repos-per-language.svg">
+<img width="49%" alt="Top languages by public commits chart" src="./profile-summary-card-output/github/2-most-commit-language.svg">
+<img width="49%" alt="GitHub stats chart" src="./profile-summary-card-output/github/3-stats.svg">
+<img width="49%" alt="Productive time chart" src="./profile-summary-card-output/github/4-productive-time.svg">
 
 </div>
