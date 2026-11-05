@@ -4,6 +4,9 @@
 
 ### Full Stack Software Engineer building product systems from idea to production.
 
+<a href="https://tadyuh.dev">
+  <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-tadyuh.dev-111111?style=for-the-badge&logo=googlechrome&logoColor=white">
+</a>
 <a href="https://linkedin.com/in/huongdathuy">
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Huong%20Dat%20Huy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
