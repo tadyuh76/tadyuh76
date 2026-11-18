@@ -1,6 +1,6 @@
 <div align="center">
 
-# Huy Huong
+# [Hương Đạt Huy](https://tadyuh.dev)
 
 ### Full Stack Software Engineer building product systems from idea to production.
 
@@ -21,6 +21,8 @@
 I build across the full product stack: clean interfaces, practical backend architecture, data-aware systems, and the release habits that help teams ship with confidence.
 
 Currently working across edtech, security intelligence, and AI-assisted engineering. I care about simple user experiences, reliable services, fast iteration, and tools that make complex workflows feel lighter.
+
+Projects, films and case studies: **[tadyuh.dev](https://tadyuh.dev)** ([Tiếng Việt](https://tadyuh.dev/vi)).
 
 ## What I Work With
 
